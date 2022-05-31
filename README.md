@@ -1,4 +1,4 @@
-# CD_to_GMT_to_UMAP
+CD_to_GMT_to_UMAP
 =================================================
 ## Compute signatures using two methods and benchmark them
 1. Signatures with perturbations of morphine (Water/DMSO only pert not included) vs. all other samples in the same batch
